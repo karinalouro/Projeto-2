@@ -22,7 +22,7 @@ O design é simples e direto, com uma seção de apresentação e outra com nave
 ## 🖼️ Prévia
 
 <p align="center">
-  <img src="./Ilistration-1.png" alt="Prévia do projeto" width="400">
+  <img src="./Ilistration-1.png.png" alt="Prévia do projeto" width="400">
 </p>
 
 ## ▶️ Como executar
